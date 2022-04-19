@@ -1,0 +1,72 @@
+{
+  "data": {
+    "listOpportunitys": {
+      "items": [
+        {
+          "title": "First Opportunity",
+          "description": "some text here",
+          "date": "2021-01-19T21:00:00.000Z",
+          "capacity": 12,
+          "id": "99d9b5d6-d811-4a63-af2a-8c36d1f496e2",
+          "location": "London",
+          "opportunityProvider": {
+            "name": "Marks & Spencer Food"
+          },
+          "cover": {
+            "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+            "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1613567195053-20200430193917-GettyImages-1186947989.jpeg",
+            "region": "eu-west-1"
+          }
+        },
+        {
+          "title": "Food waste workshop",
+          "description": "Learn new skills",
+          "date": "2021-01-13T00:00:00.000Z",
+          "capacity": 12,
+          "id": "a98f2153-463a-462a-b9c7-42f7ca563bd3",
+          "location": "London",
+          "opportunityProvider": {
+            "name": "Erkan Baran"
+          },
+          "cover": {
+            "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5190632-develop",
+            "key": "/public/eu-west-1:e451bf0c-49ce-495d-b53b-533f69be915a/1615559017415-bg_2.jpg",
+            "region": "eu-west-1"
+          }
+        },
+        {
+          "title": "Future Trends in Google",
+          "description": "unique opportunity in Google ",
+          "date": "2021-03-09T00:00:00.000Z",
+          "capacity": 12,
+          "id": "420235b0-1841-4be2-a670-f2a41be9d91f",
+          "location": "London",
+          "opportunityProvider": {
+            "name": "Company Erkan"
+          },
+          "cover": {
+            "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+            "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1614687012958-EuhqjVzXUAEr5Wj.jpeg",
+            "region": "eu-west-1"
+          }
+        },
+        {
+          "title": "Joker",
+          "description": "asd",
+          "date": "2021-01-19T21:00:00.000Z",
+          "capacity": 12,
+          "id": "d31123c9-9ae7-4df7-ae44-b96f59b0df13",
+          "location": "London",
+          "opportunityProvider": {
+            "name": "Company Erkan"
+          },
+          "cover": {
+            "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+            "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1613564555451-calculate-opportunity-win-rate.png",
+            "region": "eu-west-1"
+          }
+        }
+      ]
+    }
+  }
+}

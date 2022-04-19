@@ -1,0 +1,79 @@
+import {StyleSheet} from 'react-native';
+import {theme, width} from '../../../components/Theme';
+
+const styles = StyleSheet.create({
+  backgroundContainer: {
+    backgroundColor: theme.colors.background2,
+  },
+  container: {
+    height: 630,
+    backgroundColor: theme.colors.backgroundColor2,
+  },
+
+  heading: {
+    fontSize: 30,
+    fontWeight: 'bold',
+    fontStyle: 'normal',
+    paddingHorizontal: 80,
+    textAlign: 'center',
+    color: theme.colors.black,
+  },
+
+  subtext: {
+    color: theme.colors.inactiveTintColor,
+    textAlign: 'center',
+    marginTop: 20,
+    paddingHorizontal: 70,
+  },
+
+  typeBox: {
+    width: 188,
+    height: 55,
+    marginHorizontal: 20,
+    borderRadius: theme.radius.m,
+    marginVertical: 8,
+    justifyContent: 'space-around',
+  },
+
+  svg: {
+    position: 'absolute',
+    top: 410,
+  },
+  svg1: {
+    position: 'absolute',
+    top: 12,
+    transform: [{rotate: '180deg'}],
+  },
+
+  type: {
+    height: (width - theme.spacing.xl * 2) / 3.5,
+    paddingLeft: 60,
+    justifyContent: 'center',
+  },
+  typeText: {
+    ...theme.typography.title6,
+    color: 'black',
+    fontWeight: 'bold',
+  },
+  container: {
+    flex: 1,
+  },
+  item: {
+    flexDirection: 'row',
+    backgroundColor: '#f7f7f7',
+    padding: 15,
+    borderRadius: 7,
+    width: 188,
+    height: 55,
+    marginVertical: 8,
+    justifyContent: 'space-around',
+    marginHorizontal: 16,
+  },
+  title: {
+    textAlign: 'center',
+    padding:5,
+    fontSize: 14,
+  },
+});
+
+export default styles;

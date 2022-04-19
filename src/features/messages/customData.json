@@ -1,0 +1,37 @@
+{
+    "User1": {
+        "firstName": "Ben ",
+        "LastName": "Schultz",
+        "latestMessage": "Hey babe watcha doing today ?",
+        "lastSeen": "30 min ago",
+        "status": "1"
+    },
+    "User2": {
+        "firstName": "Myra ",
+        "LastName": "Ward",
+        "latestMessage": "I know lol, but fingers crossed!",
+        "lastSeen": "Yesterday",
+        "status": "1"
+    },
+    "User3": {
+        "firstName": "Samson ",
+        "LastName": "Rose",
+        "latestMessage": "Are you sure?",
+        "lastSeen": "11 Jan 2020",
+        "status": "1"
+    },
+    "User4": {
+        "firstName": "Elon",
+        "LastName": "Zuck",
+        "latestMessage": "Don't listen to them hun",
+        "lastSeen": "11 Jan 2020",
+        "status": "1"
+    },
+    "User5": {
+        "firstName": "Travis",
+        "LastName": "Watkins",
+        "latestMessage": "Yah, I have 3 lessons for you.",
+        "lastSeen": "11 Jan 2020",
+        "status": "1"
+    }
+}

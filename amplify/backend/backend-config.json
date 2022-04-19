@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "cm2seekera51bd273": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s320172fdc": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "getSeeker": {
+      "firstName": "Erkan",
+      "lastName": "Baran",
+      "posts": {
+        "items": [
+          {
+            "caption": "Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. ",
+            "blog": null,
+            "id": "f746e930-0647-4aed-9a16-9b94faa5d328",
+            "photo": [
+              {
+                "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+                "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1613567195053-20200430193917-GettyImages-1186947989.jpeg",
+                "region": "eu-west-1"
+              }
+            ],
+            "status": 1,
+            "type": "PHOTO",
+            "video": null,
+            "createdAt": "2021-03-01T15:52:15.610Z",
+            "visibility": 1,
+            "seeker": {
+              "firstName": "Erkan",
+              "lastName": "Baran",
+              "username": "ebaran"
+            }
+          },
+          {
+            "caption": "Yesterday we went to the UK young business from in London",
+            "blog": {
+              "blogTitle": "2021-UK Young Business Forum",
+              "blogDescription": "Yesterday we went to the UK young business from in London",
+              "visibility": "1"
+            },
+            "id": "6d747b28-e18d-4adb-a948-cdc9a6f75270",
+            "photo": null,
+            "status": 1,
+            "type": "BLOG",
+            "video": null,
+            "createdAt": "2021-02-23T13:50:00.732Z",
+            "visibility": 1,
+            "seeker": {
+              "firstName": "Erkan",
+              "lastName": "Baran",
+              "username": "ebaran"
+            }
+          },
+          {
+            "caption": "Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. ",
+            "blog": null,
+            "id": "f746e930-0647-4aed-9a16-9b94faa5d329",
+            "photo": [
+              {
+                "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+                "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1613567195053-20200430193917-GettyImages-1186947989.jpeg",
+                "region": "eu-west-1"
+              }
+            ],
+            "status": 1,
+            "type": "VIDEO",
+            "video": null,
+            "createdAt": "2021-03-01T15:52:15.610Z",
+            "visibility": 1,
+            "seeker": {
+              "firstName": "Erkan",
+              "lastName": "Baran",
+              "username": "ebaran"
+            }
+          },
+          {
+            "caption": "Yesterday we went to the UK young business from in London",
+            "blog": {
+              "blogTitle": "2021-UK Young Business Forum",
+              "blogDescription": "Yesterday we went to the UK young business from in London",
+              "visibility": "1"
+            },
+            "id": "6d747b28-e18d-4adb-a948-cdc9a6f75271",
+            "photo": null,
+            "status": 1,
+            "type": "BLOG",
+            "video": null,
+            "createdAt": "2021-02-23T13:50:00.732Z",
+            "visibility": 1,
+            "seeker": {
+              "firstName": "Erkan",
+              "lastName": "Baran",
+              "username": "ebaran"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

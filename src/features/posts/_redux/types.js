@@ -1,0 +1,10 @@
+// posts
+export const POSTS_CATCH_ERROR = 'POSTS_CATCH_ERROR';
+export const POSTS_START_CALL = 'POSTS_START_CALL';
+export const POSTS_END_CALL = 'POSTS_END_CALL';
+export const POSTS_FETCHED = 'POSTS_FETCHED';
+export const POST_FETCHED = 'POST_FETCHED';
+export const POST_CREATED = 'POST_CREATED';
+export const POST_UPDATED = 'POST_UPDATED';
+export const POST_RESOURCE_UPDATED = 'POST_RESOURCE_UPDATED';
+export const POSTS_CLEAR = 'POSTS_CLEAR';

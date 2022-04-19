@@ -1,0 +1,55 @@
+{
+  "data": {
+    "listRouteMaps": {
+      "items": [
+        {
+          "id": "1",
+          "destination": "Get promoted",
+          "category": {
+            "name": "Career"
+          },
+          "coverPhoto": {
+            "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+            "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1613564555451-calculate-opportunity-win-rate.png",
+            "region": "eu-west-1"
+          },
+          "focusAreas": {
+            "items": [
+              {
+                "focusArea": {
+                  "name": "Study"
+                }
+              },
+              {
+                "focusArea": {
+                  "name": "Work experince"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "destination": "Retrain skills",
+          "category": {
+            "name": "Career"
+          },
+          "coverPhoto": {
+            "bucket": "cm2provider112c74238af64c2ca6103796fed33fd5103638-erkan",
+            "key": "/public/eu-west-1:4f84160b-505b-405b-8da7-d82ffcc7596b/1613564555451-calculate-opportunity-win-rate.png",
+            "region": "eu-west-1"
+          },
+          "focusAreas": {
+            "items": [
+              {
+                "focusArea": {
+                  "name": "Work experince"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
